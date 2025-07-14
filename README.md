@@ -1,4 +1,4 @@
-# Ahmet Çetinkaya's Instruction - Training Repositories
+# [Ahmet Çetinkaya's Instructions](https://github.com/ahmet-cetinkaya-instruction) - Repositories I use in instruction.
 
 Welcome to the official GitHub organization for Ahmet Cetinkaya Instruction! This repository showcases the training materials and projects used to deliver technical training to over 500 professionals at leading companies like BOSCH, ETIYA, TOBETO, TÜBİSAD, and ESBAŞ. Our programs have consistently led to increased developer efficiency and improved software quality, reflected in an impressive average satisfaction score of 9.2/10. Explore our curated list of key training repositories below, covering a range of topics from full-stack development to clean code principles.
 
